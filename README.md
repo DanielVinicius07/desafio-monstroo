@@ -10,6 +10,7 @@ JavaScript
 
 👥 Equipe de Desenvolvimento (Drawer)
 Daniel Vinicius
+
 Elias André
 
 💼 Responsabilidades
