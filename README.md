@@ -20,3 +20,7 @@ Recriar visualmente a tela inicial do curso da Geração Tech como exercício pr
 
 👨‍🏫 Orientação
 O projeto foi desenvolvido sob orientação de Luan Oliveira.
+
+Drawer desenvolvido:
+![Captura de tela 2025-06-02 145119](https://github.com/user-attachments/assets/c117e804-92d5-4ca5-8575-0af0642b9911)
+
