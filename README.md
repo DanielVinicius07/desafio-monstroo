@@ -1,1 +1,22 @@
-# desafio-monstroo
+Tela Inicial - Geração Tech
+Este projeto é uma recriação da tela inicial do curso da Geração Tech, desenvolvida em equipe como parte de uma atividade prática. A proposta foi simular a interface visual do ambiente original utilizando apenas tecnologias web básicas.
+
+🔧 Tecnologias Utilizadas
+HTML5
+
+CSS3
+
+JavaScript
+
+👥 Equipe de Desenvolvimento (Drawer)
+Daniel Vinicius
+Elias André
+
+💼 Responsabilidades
+Minha principal contribuição foi a implementação da gaveta lateral direita (drawer), desenvolvida com HTML, CSS e JavaScript, garantindo interatividade e alinhamento com o design original.
+
+📌 Objetivo
+Recriar visualmente a tela inicial do curso da Geração Tech como exercício prático de desenvolvimento web, reforçando conceitos de estruturação HTML, estilização com CSS e lógica com JavaScript.
+
+👨‍🏫 Orientação
+O projeto foi desenvolvido sob orientação de Luan Oliveira.
